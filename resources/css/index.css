@@ -3,7 +3,7 @@ body {
 }
 
 #main_header {
-  background-image: url(/resources/images/pattern.jpeg);
+  background-image: url(resources/images/pattern.jpeg);
 }
 
 #main_header h1 {
